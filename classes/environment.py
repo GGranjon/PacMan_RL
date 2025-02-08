@@ -15,6 +15,7 @@ class Environment():
                 line = np.array([int(elt) for elt in line.split(",")])
                 self.board.append(line)
         self.board = np.matrix(self.board)
+        file.close()
     
     def reward(self, state : np.ndarray):
         rewards = {0:-0.04, 1:1., 2:-1., 3:None}
