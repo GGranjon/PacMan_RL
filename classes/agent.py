@@ -13,7 +13,7 @@ class Agent():
         actions = [main_move, alt_move1, alt_move2]
         return actions[np.random.choice([0,1,2], p=probabilities)]
     
-    def hitWall(self, action : list, board : np.matrix) -> bool:
+    def hitWall(self, action: np.ndarray, board : np.matrix) -> bool:
         """Checks if doing a move in the current position makes the agent hit a wall"""
 
         new_position = self.position + action
