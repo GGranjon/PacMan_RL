@@ -1,14 +1,12 @@
 import numpy as np
 
 class Environment():
-    def __init__(self, path="input_files/value-iteration.txt"):
+    def __init__(self, path="input_files/Q-Learning.txt"):
         self.set_board(path)
 
     def set_board(self, path):
         file = open(path, "r")
         data = [ligne.strip() for ligne in file.readlines()]
-        self.eps = float(data[-1])
-        self.gamma = float(data[-2])
         self.board = []
         for i, line in enumerate(data):
             if i<len(data)-2:
@@ -18,7 +16,9 @@ class Environment():
         file.close()
     
     def reward(self, state : np.ndarray):
-        rewards = {0:-0.04, 1:1., 2:-1., 3:None}
+        """returns the reward associated to a state"""
+
+        rewards = {0:-0.04, 1:1., 2:-1.5, 3:None}
         return rewards[self.board[state[0], state[1]]]
     
     def hitWall(self, state, action: np.ndarray) -> bool:
@@ -41,6 +41,7 @@ class Environment():
     
     def getStatesProba(self, state : np.ndarray, action : str):
         """returns the new states and probability of each transition after an action at a given state"""
+
         move_to_numeric = {"up":np.array([-1,0]), "down":np.array([1,0]),
                                 "left":np.array([0,-1]), "right":np.array([0,1])}
         main_move = move_to_numeric[action]
