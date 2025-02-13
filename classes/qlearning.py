@@ -7,8 +7,7 @@ from json import dump
 class QLearning:
     def __init__(self, env : Environment, path = "input_files/Q-Learning.txt"):
         self.env = env
-        self.policy = None
-        self.utilities_matrix = None
+        self.q_values = None
         self.move_to_numeric = {"up":np.array([-1,0]), "down":np.array([1,0]),
                                 "left":np.array([0,-1]), "right":np.array([0,1])}
         self.get_parameters(path)
@@ -72,8 +71,7 @@ class QLearning:
         file.write("\nFINAL Q-VALUES PER STATE : \n\n")
         dump(q_values, file, indent=4)
         file.close()
-
-        return q_values
+        self.q_values = q_values
 
     def create_action_matrix(self, q_values : dict, save_file : str = "output_files/log-file_QL.txt") -> np.matrix:
         """Creates the action matrix based on the q-values dictionary"""

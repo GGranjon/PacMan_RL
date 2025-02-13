@@ -11,6 +11,8 @@ class ValueIteration():
         self.get_parameters(path)
 
     def get_parameters(self, path):
+        """Gets gamma and epsilon from the input file"""
+
         file = open(path, "r")
         data = [ligne.strip() for ligne in file.readlines()]
         self.eps = float(data[-1])
@@ -26,15 +28,17 @@ class ValueIteration():
         new_utilities_matrix = np.zeros((n_row, n_column))
         policy = np.zeros((n_row, n_column)).tolist()
         actions = ["up", "down", "left", "right"]
-        difference = 10000  # false initialisation to pass the while a first time
+        difference = 10000
 
-        file = open(history_file,"w")   # clears a potential previous history in the file
+        # History file
+        file = open(history_file,"w")   # Clears a potential previous history in the file
         file = open(history_file, "a")
         file.write("History of the utilities after each iteration of the value iteration algorithm.\nThe empty state utility stays at 0, but is changed at the end of the algorithm. \n\n")
         file.write(f"Gamma : {self.gamma}, threshold : {self.eps}\n\n")
         
         iter = 0
         while difference > self.eps:
+
             old_utilities_matrix = new_utilities_matrix.copy()
             file.write(f"Iteration {iter} : \n\n")
             np.savetxt(file, old_utilities_matrix, fmt='%8.5f')
@@ -42,8 +46,11 @@ class ValueIteration():
             
             for i in range(n_row):
                 for j in range(n_column):
-                    if self.env.board[i,j] == 3.: #unreachable
+
+                    if self.env.board[i,j] == 3.: # Unreachable
                         continue
+
+                    # Finding the best q-value
                     state = np.array([i,j])
                     max_q_value = -inf
                     best_action = None
@@ -56,12 +63,12 @@ class ValueIteration():
                             max_q_value = q_value
                             best_action = action
 
-                    # at this point, we have the best q_value, meaning the utility of the state
                     new_utilities_matrix[i,j] = max_q_value
                     policy[i][j] = best_action
             difference = np.sum(np.abs(new_utilities_matrix - old_utilities_matrix))
             iter+=1
 
+        # Replacing 0 by None for unreachable states
         for i in range(n_row):
             for j in range(n_column):
                 if self.env.board[i,j] == 3.: #unreachable
@@ -76,18 +83,18 @@ class ValueIteration():
         file.close()
         self.policy = policy
         self.utilities_matrix = new_utilities_matrix
-        print(self.utilities_matrix)
-        print(self.policy)
 
     def apply_policy(self, agent : Agent) -> list:
         """Make the agent go to the green square. Return the list of moves the agent had to do"""
-        assert (self.policy != None).any()
         
+        assert (self.policy != None).any()
         actions = []
+        
         while self.env.board[agent.position[0], agent.position[1]] != 1 and self.env.board[agent.position[0], agent.position[1]] != 2:
             action = self.policy[agent.position[0], agent.position[1]]
             action_done = agent.doAction(action, self.env.board)
             actions.append([action, action_done])
+        
         if self.env.board[agent.position[0], agent.position[1]] == 1:
             print("Gagn\xc3\xa9 !!")
         else:
