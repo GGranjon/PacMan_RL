@@ -18,7 +18,7 @@ class Environment():
     def reward(self, state : np.ndarray):
         """returns the reward associated to a state"""
 
-        rewards = {0:-0.04, 1:1., 2:-1.5, 3:None}
+        rewards = {0:-0.04, 1:1., 2:-100, 3:None}
         return rewards[self.board[state[0], state[1]]]
     
     def hitWall(self, state, action: np.ndarray) -> bool:

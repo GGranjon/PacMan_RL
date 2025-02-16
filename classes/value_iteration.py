@@ -28,6 +28,7 @@ class ValueIteration():
         new_utilities_matrix = np.zeros((n_row, n_column))
         policy = np.zeros((n_row, n_column)).tolist()
         actions = ["up", "down", "left", "right"]
+        to_symbol = {"up":"^", "down":"v", "left":"<", "right":">"}
         difference = 10000
 
         # History file

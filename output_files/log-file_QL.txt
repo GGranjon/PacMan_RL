@@ -4,453 +4,437 @@ ALPHA : 0.9, GAMMA : 0.5, NUMBER OF ITERATIONS : 15000
 
 Iteration 1 : 
 
-Etat : 0_3, action : right, old q-value : 0, new q_value : -0.036
+Etat : 0_3, action : left, old q-value : 0, new q_value : -90.0
 
 Iteration 2 : 
 
-Etat : 0_4, action : up, old q-value : 0, new q_value : -0.036
+Etat : 0_2, action : up, old q-value : 0, new q_value : -90.0
 
 Iteration 3 : 
 
-Etat : 0_4, action : down, old q-value : 0, new q_value : -1.35
+Etat : 0_2, action : right, old q-value : 0, new q_value : 0.9
+
+Random state switch to [0 2]
 
 Iteration 4 : 
 
-Etat : 1_4, action : up, old q-value : 0, new q_value : -0.036
+Etat : 0_2, action : right, old q-value : 0.9, new q_value : 0.99
 
 Iteration 5 : 
 
-Etat : 0_4, action : left, old q-value : 0, new q_value : 0.9
+Etat : 0_3, action : up, old q-value : 0, new q_value : 0.9
 
 Iteration 6 : 
 
-Etat : 0_3, action : right, old q-value : -0.036, new q_value : 0.3654
+Etat : 0_3, action : up, old q-value : 0.9, new q_value : 1.395
 
 Iteration 7 : 
 
-Etat : 0_4, action : down, old q-value : -1.35, new q_value : -1.485
+Etat : 0_3, action : up, old q-value : 1.395, new q_value : 1.66725
 
 Iteration 8 : 
 
-Etat : 1_4, action : down, old q-value : 0, new q_value : -0.036
+Etat : 0_3, action : right, old q-value : 0, new q_value : -0.036
 
 Iteration 9 : 
 
-Etat : 2_4, action : up, old q-value : 0, new q_value : -1.35
+Etat : 0_4, action : right, old q-value : 0, new q_value : -0.036
 
 Iteration 10 : 
 
-Etat : 1_4, action : left, old q-value : 0, new q_value : -1.35
+Etat : 0_5, action : up, old q-value : 0, new q_value : -0.036
 
 Iteration 11 : 
 
-Etat : 1_3, action : left, old q-value : 0, new q_value : -1.35
+Etat : 0_5, action : down, old q-value : 0, new q_value : -0.036
 
 Iteration 12 : 
 
-Etat : 1_3, action : up, old q-value : 0, new q_value : 1.06443
+Etat : 1_5, action : up, old q-value : 0, new q_value : -0.036
 
 Iteration 13 : 
 
-Etat : 0_3, action : down, old q-value : 0, new q_value : -0.871007
+Etat : 0_5, action : left, old q-value : 0, new q_value : -0.036
 
 Iteration 14 : 
 
-Etat : 1_3, action : up, old q-value : 1.06443, new q_value : 1.170873
+Etat : 0_4, action : left, old q-value : 0, new q_value : 1.650263
 
 Iteration 15 : 
 
-Etat : 0_3, action : left, old q-value : 0, new q_value : -1.35
+Etat : 0_3, action : up, old q-value : 1.66725, new q_value : 1.816987
 
 Iteration 16 : 
 
-Etat : 0_2, action : up, old q-value : 0, new q_value : -1.35
+Etat : 0_3, action : up, old q-value : 1.816987, new q_value : 1.899343
 
 Iteration 17 : 
 
-Etat : 0_2, action : down, old q-value : 0, new q_value : -1.35
+Etat : 0_3, action : up, old q-value : 1.899343, new q_value : 1.944639
 
 Iteration 18 : 
 
-Etat : 0_2, action : right, old q-value : 0, new q_value : 1.06443
-
-Random state switch to [1 3]
+Etat : 0_3, action : left, old q-value : -90.0, new q_value : -98.5545
 
 Iteration 19 : 
 
-Etat : 1_3, action : up, old q-value : 1.170873, new q_value : 1.181517
+Etat : 0_2, action : right, old q-value : 0.99, new q_value : 1.874088
 
 Iteration 20 : 
 
-Etat : 0_3, action : right, old q-value : 0.3654, new q_value : 0.40554
+Etat : 0_3, action : down, old q-value : 0, new q_value : -90.0
 
 Iteration 21 : 
 
-Etat : 0_4, action : right, old q-value : 0, new q_value : -0.036
+Etat : 1_3, action : up, old q-value : 0, new q_value : 1.775088
 
 Iteration 22 : 
 
-Etat : 0_5, action : up, old q-value : 0, new q_value : -0.036
+Etat : 0_3, action : up, old q-value : 1.944639, new q_value : 1.969551
 
 Iteration 23 : 
 
-Etat : 0_5, action : right, old q-value : 0, new q_value : -0.036
+Etat : 0_3, action : up, old q-value : 1.969551, new q_value : 1.983253
 
 Iteration 24 : 
 
-Etat : 0_6, action : up, old q-value : 0, new q_value : -0.036
-
-Random state switch to [0 4]
+Etat : 0_3, action : up, old q-value : 1.983253, new q_value : 1.990789
 
 Iteration 25 : 
 
-Etat : 0_4, action : left, old q-value : 0.9, new q_value : 1.172493
-
-Random state switch to [0 4]
+Etat : 0_3, action : down, old q-value : -90.0, new q_value : -98.20121
 
 Iteration 26 : 
 
-Etat : 0_4, action : left, old q-value : 1.172493, new q_value : 1.199742
+Etat : 1_3, action : up, old q-value : 1.775088, new q_value : 1.973364
 
 Iteration 27 : 
 
-Etat : 0_3, action : right, old q-value : 0.40554, new q_value : 0.544438
+Etat : 0_3, action : up, old q-value : 1.990789, new q_value : 1.994934
 
 Iteration 28 : 
 
-Etat : 0_4, action : left, old q-value : 1.199742, new q_value : 1.264971
+Etat : 0_3, action : up, old q-value : 1.994934, new q_value : 1.997214
 
 Iteration 29 : 
 
-Etat : 0_3, action : up, old q-value : 0, new q_value : 1.144997
+Etat : 0_3, action : up, old q-value : 1.997214, new q_value : 1.998468
 
 Iteration 30 : 
 
-Etat : 0_3, action : up, old q-value : 1.144997, new q_value : 1.529748
+Etat : 0_3, action : up, old q-value : 1.998468, new q_value : 1.999157
 
 Iteration 31 : 
 
-Etat : 0_3, action : up, old q-value : 1.529748, new q_value : 1.741361
+Etat : 0_3, action : up, old q-value : 1.999157, new q_value : 1.999536
 
 Iteration 32 : 
 
-Etat : 0_3, action : right, old q-value : 0.544438, new q_value : 0.587681
+Etat : 0_3, action : up, old q-value : 1.999536, new q_value : 1.999745
 
 Iteration 33 : 
 
-Etat : 0_4, action : left, old q-value : 1.264971, new q_value : 1.81011
-
-Random state switch to [0 4]
+Etat : 0_3, action : left, old q-value : -98.5545, new q_value : -99.01211
 
 Iteration 34 : 
 
-Etat : 0_4, action : left, old q-value : 1.81011, new q_value : 1.864623
+Etat : 0_2, action : right, old q-value : 1.874088, new q_value : 1.987294
 
 Iteration 35 : 
 
-Etat : 0_3, action : down, old q-value : -0.871007, new q_value : -0.905418
+Etat : 0_3, action : right, old q-value : -0.036, new q_value : 0.703018
 
 Iteration 36 : 
 
-Etat : 1_3, action : down, old q-value : 0, new q_value : -0.036
+Etat : 0_4, action : left, old q-value : 1.650263, new q_value : 1.964912
 
 Iteration 37 : 
 
-Etat : 2_3, action : up, old q-value : 0, new q_value : -0.818317
+Etat : 0_3, action : up, old q-value : 1.999745, new q_value : 1.99986
 
 Iteration 38 : 
 
-Etat : 1_3, action : right, old q-value : 0, new q_value : -1.35
-
-Random state switch to [2 3]
+Etat : 0_3, action : up, old q-value : 1.99986, new q_value : 1.999923
 
 Iteration 39 : 
 
-Etat : 2_3, action : right, old q-value : 0, new q_value : -0.036
+Etat : 0_3, action : up, old q-value : 1.999923, new q_value : 1.999958
 
 Iteration 40 : 
 
-Etat : 2_4, action : down, old q-value : 0, new q_value : -0.036
+Etat : 0_3, action : right, old q-value : 0.703018, new q_value : 0.918512
 
 Iteration 41 : 
 
-Etat : 3_4, action : left, old q-value : 0, new q_value : -1.35
+Etat : 0_4, action : left, old q-value : 1.964912, new q_value : 1.996472
 
 Iteration 42 : 
 
-Etat : 3_3, action : up, old q-value : 0, new q_value : -0.036
+Etat : 0_3, action : left, old q-value : -99.01211, new q_value : -99.006929
 
 Iteration 43 : 
 
-Etat : 2_3, action : up, old q-value : -0.818317, new q_value : -0.900149
-
-Random state switch to [3 3]
+Etat : 0_2, action : right, old q-value : 1.987294, new q_value : 1.998711
 
 Iteration 44 : 
 
-Etat : 3_3, action : down, old q-value : 0, new q_value : -0.036
+Etat : 0_3, action : up, old q-value : 1.999958, new q_value : 1.999977
 
 Iteration 45 : 
 
-Etat : 4_3, action : up, old q-value : 0, new q_value : -1.35
-
-Random state switch to [3 3]
+Etat : 0_3, action : up, old q-value : 1.999977, new q_value : 1.999987
 
 Iteration 46 : 
 
-Etat : 3_3, action : left, old q-value : 0, new q_value : -0.036
+Etat : 0_3, action : up, old q-value : 1.999987, new q_value : 1.999993
 
 Iteration 47 : 
 
-Etat : 3_2, action : up, old q-value : 0, new q_value : -0.036
+Etat : 0_3, action : up, old q-value : 1.999993, new q_value : 1.999996
 
 Iteration 48 : 
 
-Etat : 2_2, action : up, old q-value : 0, new q_value : -0.036
+Etat : 0_3, action : up, old q-value : 1.999996, new q_value : 1.999998
 
 Iteration 49 : 
 
-Etat : 2_2, action : down, old q-value : 0, new q_value : -0.036
-
-Random state switch to [2 4]
+Etat : 0_3, action : up, old q-value : 1.999998, new q_value : 1.999999
 
 Iteration 50 : 
 
-Etat : 2_4, action : left, old q-value : 0, new q_value : -0.036
+Etat : 0_3, action : right, old q-value : 0.918512, new q_value : 0.954264
 
 Iteration 51 : 
 
-Etat : 2_3, action : down, old q-value : 0, new q_value : -1.35
+Etat : 0_4, action : down, old q-value : 0, new q_value : -90.0
 
 Iteration 52 : 
 
-Etat : 3_3, action : right, old q-value : 0, new q_value : -0.036
+Etat : 1_4, action : right, old q-value : 0, new q_value : -0.036
 
 Iteration 53 : 
 
-Etat : 3_4, action : up, old q-value : 0, new q_value : -0.036
+Etat : 1_5, action : left, old q-value : 0, new q_value : -90.0
 
 Iteration 54 : 
 
-Etat : 2_4, action : up, old q-value : -1.35, new q_value : -1.485
+Etat : 1_4, action : up, old q-value : 0, new q_value : 0.862412
 
 Iteration 55 : 
 
-Etat : 1_4, action : down, old q-value : -0.036, new q_value : -0.0396
+Etat : 0_4, action : left, old q-value : 1.996472, new q_value : 1.999647
 
 Iteration 56 : 
 
-Etat : 2_4, action : right, old q-value : 0, new q_value : -1.35
+Etat : 0_3, action : right, old q-value : 0.954264, new q_value : 0.959268
 
 Iteration 57 : 
 
-Etat : 2_5, action : right, old q-value : 0, new q_value : -0.036
+Etat : 0_4, action : up, old q-value : 0, new q_value : 0.863841
 
 Iteration 58 : 
 
-Etat : 2_6, action : up, old q-value : 0, new q_value : -0.036
+Etat : 0_4, action : right, old q-value : -0.036, new q_value : -0.0396
 
 Iteration 59 : 
 
-Etat : 1_6, action : up, old q-value : 0, new q_value : -0.036
+Etat : 0_5, action : right, old q-value : 0, new q_value : -0.036
 
 Iteration 60 : 
 
-Etat : 0_6, action : down, old q-value : 0, new q_value : -0.036
+Etat : 0_6, action : up, old q-value : 0, new q_value : -0.036
 
 Iteration 61 : 
 
-Etat : 1_6, action : down, old q-value : 0, new q_value : -0.036
-
-Random state switch to [2 5]
+Etat : 0_6, action : down, old q-value : 0, new q_value : -0.036
 
 Iteration 62 : 
 
-Etat : 2_5, action : up, old q-value : 0, new q_value : -0.036
+Etat : 1_6, action : left, old q-value : 0, new q_value : -0.036
 
 Iteration 63 : 
 
-Etat : 1_5, action : up, old q-value : 0, new q_value : -0.036
+Etat : 1_5, action : down, old q-value : 0, new q_value : -90.0
 
 Iteration 64 : 
 
-Etat : 0_5, action : down, old q-value : 0, new q_value : -0.036
+Etat : 2_5, action : up, old q-value : 0, new q_value : -0.036
 
 Iteration 65 : 
 
-Etat : 1_5, action : down, old q-value : 0, new q_value : -1.35
+Etat : 1_5, action : right, old q-value : 0, new q_value : -0.036
+
+Random state switch to [1 6]
 
 Iteration 66 : 
 
-Etat : 2_5, action : down, old q-value : 0, new q_value : -0.036
+Etat : 1_6, action : right, old q-value : 0, new q_value : -0.036
 
 Iteration 67 : 
 
-Etat : 3_5, action : up, old q-value : 0, new q_value : -1.35
+Etat : 1_6, action : up, old q-value : 0, new q_value : -0.036
 
 Iteration 68 : 
 
-Etat : 2_5, action : left, old q-value : 0, new q_value : -0.0522
+Etat : 0_6, action : left, old q-value : 0, new q_value : -0.0522
 
 Iteration 69 : 
 
-Etat : 2_4, action : down, old q-value : -0.036, new q_value : -0.0396
+Etat : 0_5, action : up, old q-value : -0.036, new q_value : -0.0558
 
 Iteration 70 : 
 
-Etat : 3_4, action : down, old q-value : 0, new q_value : -0.036
+Etat : 0_5, action : up, old q-value : -0.0558, new q_value : -0.05778
 
 Iteration 71 : 
 
-Etat : 4_4, action : right, old q-value : 0, new q_value : -0.036
+Etat : 0_5, action : left, old q-value : -0.036, new q_value : 0.860241
 
 Iteration 72 : 
 
-Etat : 4_5, action : up, old q-value : 0, new q_value : -0.036
+Etat : 0_4, action : left, old q-value : 1.999647, new q_value : 1.999964
+
+Random state switch to [1 4]
 
 Iteration 73 : 
 
-Etat : 3_5, action : right, old q-value : 0, new q_value : -0.036
+Etat : 1_4, action : up, old q-value : 0.862412, new q_value : 0.950225
 
 Iteration 74 : 
 
-Etat : 3_6, action : up, old q-value : 0, new q_value : -0.036
+Etat : 0_4, action : up, old q-value : 0.863841, new q_value : 0.950368
 
 Iteration 75 : 
 
-Etat : 2_6, action : left, old q-value : 0, new q_value : -1.3662
-
-Random state switch to [2 2]
+Etat : 0_4, action : right, old q-value : -0.0396, new q_value : 0.347148
 
 Iteration 76 : 
 
-Etat : 2_2, action : left, old q-value : 0, new q_value : -1.35
+Etat : 0_5, action : down, old q-value : -0.036, new q_value : -0.0558
 
 Iteration 77 : 
 
-Etat : 2_1, action : left, old q-value : 0, new q_value : -0.036
+Etat : 1_5, action : left, old q-value : -90.0, new q_value : -98.572399
 
 Iteration 78 : 
 
-Etat : 2_0, action : up, old q-value : 0, new q_value : -0.036
+Etat : 1_4, action : up, old q-value : 0.950225, new q_value : 0.959006
 
 Iteration 79 : 
 
-Etat : 1_0, action : up, old q-value : 0, new q_value : -0.036
+Etat : 0_4, action : down, old q-value : -90.0, new q_value : -98.568447
 
 Iteration 80 : 
 
-Etat : 0_0, action : up, old q-value : 0, new q_value : -0.036
+Etat : 1_4, action : up, old q-value : 0.959006, new q_value : 0.959884
 
 Iteration 81 : 
 
-Etat : 0_0, action : right, old q-value : 0, new q_value : -0.036
+Etat : 0_4, action : left, old q-value : 1.999964, new q_value : 1.999996
 
 Iteration 82 : 
 
-Etat : 0_1, action : up, old q-value : 0, new q_value : -0.036
+Etat : 0_3, action : right, old q-value : 0.959268, new q_value : 0.959925
 
 Iteration 83 : 
 
-Etat : 0_1, action : left, old q-value : 0, new q_value : -0.036
+Etat : 0_4, action : up, old q-value : 0.950368, new q_value : 0.959035
 
 Iteration 84 : 
 
-Etat : 0_0, action : down, old q-value : 0, new q_value : -0.036
+Etat : 0_4, action : down, old q-value : -98.568447, new q_value : -99.424897
 
 Iteration 85 : 
 
-Etat : 1_0, action : right, old q-value : 0, new q_value : -0.036
+Etat : 1_4, action : up, old q-value : 0.959884, new q_value : 0.959987
 
 Iteration 86 : 
 
-Etat : 1_0, action : left, old q-value : 0, new q_value : -0.036
+Etat : 0_4, action : up, old q-value : 0.959035, new q_value : 0.959902
 
 Iteration 87 : 
 
-Etat : 1_0, action : down, old q-value : 0, new q_value : -0.036
+Etat : 0_4, action : left, old q-value : 1.999996, new q_value : 1.999999
 
 Iteration 88 : 
 
-Etat : 2_0, action : down, old q-value : 0, new q_value : -0.036
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 89 : 
 
-Etat : 3_0, action : up, old q-value : 0, new q_value : -0.036
+Etat : 0_3, action : right, old q-value : 0.959925, new q_value : 0.959992
 
 Iteration 90 : 
 
-Etat : 2_0, action : left, old q-value : 0, new q_value : -0.036
+Etat : 0_4, action : up, old q-value : 0.959902, new q_value : 0.95999
 
 Iteration 91 : 
 
-Etat : 2_0, action : up, old q-value : -0.036, new q_value : -0.0558
+Etat : 0_4, action : left, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 92 : 
 
-Etat : 1_0, action : up, old q-value : -0.036, new q_value : -0.0396
+Etat : 0_3, action : right, old q-value : 0.959992, new q_value : 0.959999
 
 Iteration 93 : 
 
-Etat : 0_0, action : left, old q-value : 0, new q_value : -0.036
+Etat : 0_4, action : up, old q-value : 0.95999, new q_value : 0.959999
 
 Iteration 94 : 
 
-Etat : 0_0, action : up, old q-value : -0.036, new q_value : -0.0558
+Etat : 0_4, action : left, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 95 : 
 
-Etat : 0_0, action : down, old q-value : -0.036, new q_value : -0.0558
-
-Random state switch to [1 5]
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 96 : 
 
-Etat : 1_5, action : up, old q-value : -0.036, new q_value : -0.0396
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 97 : 
 
-Etat : 0_5, action : left, old q-value : 0, new q_value : 0.80308
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 98 : 
 
-Etat : 0_4, action : left, old q-value : 1.864623, new q_value : 1.870075
+Etat : 0_3, action : right, old q-value : 0.959999, new q_value : 0.959999
 
 Iteration 99 : 
 
-Etat : 0_3, action : left, old q-value : -1.35, new q_value : -1.006007
+Etat : 0_4, action : left, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 100 : 
 
-Etat : 0_2, action : right, old q-value : 1.06443, new q_value : 1.790055
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 150 : 
 
-Etat : 2_4, action : down, old q-value : -0.0396, new q_value : -0.05616
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 200 : 
 
-Etat : 0_3, action : up, old q-value : 1.999967, new q_value : 1.999982
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 250 : 
 
-Etat : 4_3, action : down, old q-value : -0.036, new q_value : -0.0558
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 300 : 
 
-Etat : 4_0, action : up, old q-value : -0.036, new q_value : -0.0558
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 350 : 
 
-Etat : 4_5, action : down, old q-value : -0.0396, new q_value : -0.05778
+Etat : 2_3, action : left, old q-value : 0, new q_value : -0.036
 
 Iteration 400 : 
 
-Etat : 0_3, action : right, old q-value : 0.959999, new q_value : 0.959999
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 450 : 
 
-Etat : 0_0, action : left, old q-value : -0.0558, new q_value : -0.06669
+Etat : 3_5, action : left, old q-value : -0.056196, new q_value : -0.05782
 
 Iteration 500 : 
 
@@ -458,59 +442,59 @@ Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 550 : 
 
-Etat : 2_6, action : up, old q-value : -0.036, new q_value : 0.016012
+Etat : 0_3, action : left, old q-value : -99.000001, new q_value : -99.000001
 
 Iteration 600 : 
 
-Etat : 3_1, action : down, old q-value : -0.076041, new q_value : -0.077779
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 650 : 
 
-Etat : 0_4, action : left, old q-value : 1.999999, new q_value : 1.999999
+Etat : 1_4, action : up, old q-value : 0.959999, new q_value : 0.959999
 
 Iteration 700 : 
 
-Etat : 4_5, action : left, old q-value : -0.072679, new q_value : -0.073368
+Etat : 0_0, action : up, old q-value : -0.036, new q_value : -0.0558
 
 Iteration 750 : 
 
-Etat : 2_3, action : right, old q-value : -0.068875, new q_value : -0.069716
+Etat : 2_1, action : down, old q-value : -0.0396, new q_value : -0.05778
 
 Iteration 800 : 
 
-Etat : 0_0, action : left, old q-value : -0.075973, new q_value : -0.077785
+Etat : 0_4, action : left, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 850 : 
 
-Etat : 0_6, action : up, old q-value : 0.153417, new q_value : 0.177341
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 900 : 
 
-Etat : 2_6, action : up, old q-value : 0.049999, new q_value : 0.049999
+Etat : 2_0, action : down, old q-value : -0.066888, new q_value : -0.067799
 
 Iteration 950 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 0_4, action : left, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 1000 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 2_3, action : up, old q-value : -89.100012, new q_value : -98.010002
 
 Iteration 1050 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 0_3, action : left, old q-value : -99.000001, new q_value : -99.000001
 
 Iteration 1100 : 
 
-Etat : 1_0, action : down, old q-value : -0.079095, new q_value : -0.079352
+Etat : 0_0, action : left, old q-value : -0.074238, new q_value : -0.076399
 
 Iteration 1150 : 
 
-Etat : 0_2, action : up, old q-value : -0.500001, new q_value : -0.500001
+Etat : 3_4, action : down, old q-value : -0.05742, new q_value : -0.071769
 
 Iteration 1200 : 
 
-Etat : 0_3, action : right, old q-value : 0.959999, new q_value : 0.959999
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 1250 : 
 
@@ -518,27 +502,27 @@ Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 1300 : 
 
-Etat : 2_6, action : up, old q-value : 0.049999, new q_value : 0.049999
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 1350 : 
 
-Etat : 3_5, action : right, old q-value : -0.047501, new q_value : -0.047501
+Etat : 1_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 1400 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 0_3, action : left, old q-value : -99.000001, new q_value : -99.000001
 
 Iteration 1450 : 
 
-Etat : 0_4, action : left, old q-value : 1.999999, new q_value : 1.999999
+Etat : 1_6, action : left, old q-value : 0.179999, new q_value : 0.179999
 
 Iteration 1500 : 
 
-Etat : 4_0, action : right, old q-value : -0.079635, new q_value : -0.079712
+Etat : 4_4, action : up, old q-value : -0.071701, new q_value : -0.071858
 
 Iteration 1550 : 
 
-Etat : 1_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 4_4, action : up, old q-value : -0.071858, new q_value : -0.071874
 
 Iteration 1600 : 
 
@@ -546,59 +530,59 @@ Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 1650 : 
 
-Etat : 0_3, action : left, old q-value : -0.500001, new q_value : -0.500001
+Etat : 0_2, action : right, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 1700 : 
 
-Etat : 0_6, action : left, old q-value : 0.439999, new q_value : 0.439999
+Etat : 0_3, action : right, old q-value : 0.959999, new q_value : 0.959999
 
 Iteration 1750 : 
 
-Etat : 0_4, action : left, old q-value : 1.999999, new q_value : 1.999999
+Etat : 1_4, action : up, old q-value : 0.959999, new q_value : 0.959999
 
 Iteration 1800 : 
 
-Etat : 0_1, action : right, old q-value : -0.4995, new q_value : -0.49995
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 1850 : 
 
-Etat : 0_5, action : left, old q-value : 0.959999, new q_value : 0.959999
+Etat : 0_2, action : right, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 1900 : 
 
-Etat : 4_1, action : up, old q-value : -0.079742, new q_value : -0.079746
+Etat : 0_2, action : right, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 1950 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 1_5, action : right, old q-value : 0.049999, new q_value : 0.049999
 
 Iteration 2000 : 
 
-Etat : 3_4, action : down, old q-value : -0.075531, new q_value : -0.075897
+Etat : 4_6, action : left, old q-value : -0.067795, new q_value : -0.071467
 
 Iteration 2050 : 
 
-Etat : 0_3, action : left, old q-value : -0.500001, new q_value : -0.500001
+Etat : 0_3, action : left, old q-value : -99.000001, new q_value : -99.000001
 
 Iteration 2100 : 
 
-Etat : 3_5, action : right, old q-value : -0.047501, new q_value : -0.047501
+Etat : 4_0, action : right, old q-value : -0.079375, new q_value : -0.079426
 
 Iteration 2150 : 
 
-Etat : 2_0, action : down, old q-value : -0.079861, new q_value : -0.079872
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 2200 : 
 
-Etat : 0_5, action : left, old q-value : 0.959999, new q_value : 0.959999
+Etat : 2_6, action : up, old q-value : 0.049999, new q_value : 0.049999
 
 Iteration 2250 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 0_3, action : right, old q-value : 0.959999, new q_value : 0.959999
 
 Iteration 2300 : 
 
-Etat : 0_3, action : right, old q-value : 0.959999, new q_value : 0.959999
+Etat : 4_6, action : up, old q-value : -0.047501, new q_value : -0.047501
 
 Iteration 2350 : 
 
@@ -606,67 +590,67 @@ Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 2400 : 
 
-Etat : 3_1, action : right, old q-value : -0.079493, new q_value : -0.079493
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 2450 : 
 
-Etat : 0_3, action : right, old q-value : 0.959999, new q_value : 0.959999
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 2500 : 
 
-Etat : 0_3, action : left, old q-value : -0.500001, new q_value : -0.500001
+Etat : 1_5, action : up, old q-value : 0.439999, new q_value : 0.439999
 
 Iteration 2550 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 1_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 2600 : 
 
-Etat : 0_3, action : left, old q-value : -0.500001, new q_value : -0.500001
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 2650 : 
 
-Etat : 1_0, action : left, old q-value : -0.079963, new q_value : -0.079967
+Etat : 3_6, action : left, old q-value : -0.063751, new q_value : -0.063751
 
 Iteration 2700 : 
 
-Etat : 0_3, action : right, old q-value : 0.959999, new q_value : 0.959999
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 2750 : 
 
-Etat : 3_5, action : right, old q-value : -0.047501, new q_value : -0.047501
+Etat : 0_5, action : left, old q-value : 0.959999, new q_value : 0.959999
 
 Iteration 2800 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 1_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 2850 : 
 
-Etat : 0_3, action : right, old q-value : 0.959999, new q_value : 0.959999
+Etat : 3_3, action : right, old q-value : -0.071869, new q_value : -0.071875
 
 Iteration 2900 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 0_4, action : left, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 2950 : 
 
-Etat : 3_5, action : right, old q-value : -0.047501, new q_value : -0.047501
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 3000 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 3_5, action : right, old q-value : -0.047501, new q_value : -0.047501
 
 Iteration 3050 : 
 
-Etat : 0_4, action : left, old q-value : 1.999999, new q_value : 1.999999
+Etat : 0_2, action : right, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 3100 : 
 
-Etat : 0_1, action : down, old q-value : -0.079963, new q_value : -0.07998
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 3150 : 
 
-Etat : 0_4, action : left, old q-value : 1.999999, new q_value : 1.999999
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 3200 : 
 
@@ -674,87 +658,87 @@ Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 3250 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 2_6, action : right, old q-value : -0.015001, new q_value : -0.015001
 
 Iteration 3300 : 
 
-Etat : 3_6, action : left, old q-value : -0.06375, new q_value : -0.06375
+Etat : 0_4, action : right, old q-value : 0.439999, new q_value : 0.439999
 
 Iteration 3350 : 
 
-Etat : 3_3, action : right, old q-value : -0.071876, new q_value : -0.071876
+Etat : 2_3, action : right, old q-value : -0.075937, new q_value : -0.075937
 
 Iteration 3400 : 
 
-Etat : 2_4, action : down, old q-value : -0.071876, new q_value : -0.071876
+Etat : 3_1, action : right, old q-value : -0.079492, new q_value : -0.079492
 
 Iteration 3450 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 2_6, action : down, old q-value : -0.047566, new q_value : -0.047507
 
 Iteration 3500 : 
 
-Etat : 2_5, action : down, old q-value : -0.064264, new q_value : -0.063802
+Etat : 3_4, action : right, old q-value : -0.063751, new q_value : -0.063751
 
 Iteration 3550 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 0_2, action : right, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 3600 : 
 
-Etat : 1_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 3650 : 
 
-Etat : 0_5, action : down, old q-value : 0.179999, new q_value : 0.179999
+Etat : 3_6, action : up, old q-value : -0.015001, new q_value : -0.015001
 
 Iteration 3700 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 1_0, action : down, old q-value : -0.079931, new q_value : -0.079936
 
 Iteration 3750 : 
 
-Etat : 3_4, action : right, old q-value : -0.063751, new q_value : -0.063751
+Etat : 2_3, action : right, old q-value : -0.075937, new q_value : -0.075937
 
 Iteration 3800 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 1_4, action : right, old q-value : 0.179999, new q_value : 0.179999
 
 Iteration 3850 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 1_6, action : up, old q-value : 0.179999, new q_value : 0.179999
 
 Iteration 3900 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 0_4, action : left, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 3950 : 
 
-Etat : 0_3, action : left, old q-value : -0.500001, new q_value : -0.500001
+Etat : 3_3, action : down, old q-value : -0.077777, new q_value : -0.077949
 
 Iteration 4000 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 0_2, action : right, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 4050 : 
 
-Etat : 4_3, action : down, old q-value : -0.077802, new q_value : -0.077952
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 4100 : 
 
-Etat : 0_3, action : left, old q-value : -0.500001, new q_value : -0.500001
+Etat : 2_2, action : right, old q-value : -0.077968, new q_value : -0.077968
 
 Iteration 4150 : 
 
-Etat : 3_3, action : right, old q-value : -0.071876, new q_value : -0.071876
+Etat : 1_3, action : left, old q-value : -99.0, new q_value : -99.0
 
 Iteration 4200 : 
 
-Etat : 0_4, action : left, old q-value : 1.999999, new q_value : 1.999999
+Etat : 2_6, action : up, old q-value : 0.049999, new q_value : 0.049999
 
 Iteration 4250 : 
 
-Etat : 4_5, action : right, old q-value : -0.06375, new q_value : -0.06375
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 4300 : 
 
@@ -762,11 +746,11 @@ Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 4350 : 
 
-Etat : 2_6, action : left, old q-value : -1.410001, new q_value : -1.410001
+Etat : 0_6, action : down, old q-value : 0.049998, new q_value : 0.049999
 
 Iteration 4400 : 
 
-Etat : 3_1, action : right, old q-value : -0.079493, new q_value : -0.079493
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 4450 : 
 
@@ -774,75 +758,75 @@ Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 4500 : 
 
-Etat : 0_3, action : down, old q-value : -0.500001, new q_value : -0.500001
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 4550 : 
 
-Etat : 3_6, action : up, old q-value : -0.015001, new q_value : -0.015001
+Etat : 0_4, action : left, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 4600 : 
 
-Etat : 2_2, action : right, old q-value : -0.077969, new q_value : -0.077969
+Etat : 3_5, action : right, old q-value : -0.047501, new q_value : -0.047501
 
 Iteration 4650 : 
 
-Etat : 0_4, action : left, old q-value : 1.999999, new q_value : 1.999999
+Etat : 2_3, action : right, old q-value : -0.075937, new q_value : -0.075937
 
 Iteration 4700 : 
 
-Etat : 3_1, action : left, old q-value : -0.079847, new q_value : -0.07987
+Etat : 0_2, action : down, old q-value : -99.0, new q_value : -99.0
 
 Iteration 4750 : 
 
-Etat : 3_4, action : down, old q-value : -0.075937, new q_value : -0.075937
+Etat : 0_4, action : left, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 4800 : 
 
-Etat : 3_4, action : right, old q-value : -0.063751, new q_value : -0.063751
+Etat : 0_4, action : left, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 4850 : 
 
-Etat : 0_3, action : right, old q-value : 0.959999, new q_value : 0.959999
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 4900 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 0_4, action : up, old q-value : 0.959999, new q_value : 0.959999
 
 Iteration 4950 : 
 
-Etat : 1_6, action : up, old q-value : 0.179999, new q_value : 0.179999
+Etat : 0_3, action : right, old q-value : 0.959999, new q_value : 0.959999
 
 Iteration 5000 : 
 
-Etat : 0_5, action : left, old q-value : 0.959999, new q_value : 0.959999
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 5050 : 
 
-Etat : 2_2, action : up, old q-value : -0.078984, new q_value : -0.078984
+Etat : 4_3, action : down, old q-value : -0.077968, new q_value : -0.077968
 
 Iteration 5100 : 
 
-Etat : 2_4, action : down, old q-value : -0.071876, new q_value : -0.071876
+Etat : 0_0, action : down, old q-value : -0.079968, new q_value : -0.079968
 
 Iteration 5150 : 
 
-Etat : 2_3, action : right, old q-value : -0.075938, new q_value : -0.075938
+Etat : 0_3, action : right, old q-value : 0.959999, new q_value : 0.959999
 
 Iteration 5200 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 1_3, action : left, old q-value : -99.0, new q_value : -99.0
 
 Iteration 5250 : 
 
-Etat : 3_2, action : up, old q-value : -0.078985, new q_value : -0.078985
+Etat : 4_6, action : up, old q-value : -0.047501, new q_value : -0.047501
 
 Iteration 5300 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 0_3, action : right, old q-value : 0.959999, new q_value : 0.959999
 
 Iteration 5350 : 
 
-Etat : 4_5, action : right, old q-value : -0.06375, new q_value : -0.06375
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 5400 : 
 
@@ -850,103 +834,103 @@ Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 5450 : 
 
-Etat : 3_6, action : up, old q-value : -0.015001, new q_value : -0.015001
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 5500 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 2_3, action : right, old q-value : -0.075937, new q_value : -0.075937
 
 Iteration 5550 : 
 
-Etat : 3_6, action : up, old q-value : -0.015001, new q_value : -0.015001
+Etat : 0_2, action : right, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 5600 : 
 
-Etat : 2_6, action : up, old q-value : 0.049999, new q_value : 0.049999
+Etat : 1_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 5650 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 0_4, action : left, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 5700 : 
 
-Etat : 3_6, action : up, old q-value : -0.015001, new q_value : -0.015001
+Etat : 0_3, action : right, old q-value : 0.959999, new q_value : 0.959999
 
 Iteration 5750 : 
 
-Etat : 1_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 2_6, action : up, old q-value : 0.049999, new q_value : 0.049999
 
 Iteration 5800 : 
 
-Etat : 0_2, action : up, old q-value : -0.500001, new q_value : -0.500001
+Etat : 2_5, action : up, old q-value : 0.179999, new q_value : 0.179999
 
 Iteration 5850 : 
 
-Etat : 0_2, action : right, old q-value : 1.999999, new q_value : 1.999999
+Etat : 1_3, action : down, old q-value : -0.077189, new q_value : -0.077891
 
 Iteration 5900 : 
 
-Etat : 0_6, action : left, old q-value : 0.439999, new q_value : 0.439999
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 5950 : 
 
-Etat : 0_4, action : left, old q-value : 1.999999, new q_value : 1.999999
+Etat : 4_4, action : up, old q-value : -0.071875, new q_value : -0.071875
 
 Iteration 6000 : 
 
-Etat : 0_4, action : left, old q-value : 1.999999, new q_value : 1.999999
+Etat : 0_2, action : up, old q-value : -99.0, new q_value : -99.0
 
 Iteration 6050 : 
 
-Etat : 0_2, action : down, old q-value : -0.500001, new q_value : -0.500001
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 6100 : 
 
-Etat : 0_5, action : left, old q-value : 0.959999, new q_value : 0.959999
+Etat : 0_2, action : left, old q-value : -0.079992, new q_value : -0.079992
 
 Iteration 6150 : 
 
-Etat : 0_2, action : right, old q-value : 1.999999, new q_value : 1.999999
+Etat : 1_6, action : left, old q-value : 0.179999, new q_value : 0.179999
 
 Iteration 6200 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 0_4, action : left, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 6250 : 
 
-Etat : 0_4, action : down, old q-value : -1.020001, new q_value : -1.020001
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 6300 : 
 
-Etat : 3_5, action : right, old q-value : -0.047501, new q_value : -0.047501
+Etat : 4_3, action : right, old q-value : -0.075937, new q_value : -0.075937
 
 Iteration 6350 : 
 
-Etat : 0_4, action : up, old q-value : 0.959999, new q_value : 0.959999
+Etat : 2_4, action : down, old q-value : -0.071875, new q_value : -0.071875
 
 Iteration 6400 : 
 
-Etat : 1_0, action : down, old q-value : -0.079936, new q_value : -0.079936
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 6450 : 
 
-Etat : 4_6, action : up, old q-value : -0.047501, new q_value : -0.047501
+Etat : 1_5, action : up, old q-value : 0.439999, new q_value : 0.439999
 
 Iteration 6500 : 
 
-Etat : 0_4, action : left, old q-value : 1.999999, new q_value : 1.999999
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 6550 : 
 
-Etat : 3_0, action : right, old q-value : -0.079746, new q_value : -0.079746
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 6600 : 
 
-Etat : 0_4, action : left, old q-value : 1.999999, new q_value : 1.999999
+Etat : 0_3, action : right, old q-value : 0.959999, new q_value : 0.959999
 
 Iteration 6650 : 
 
-Etat : 3_0, action : right, old q-value : -0.079746, new q_value : -0.079746
+Etat : 1_4, action : up, old q-value : 0.959999, new q_value : 0.959999
 
 Iteration 6700 : 
 
@@ -954,39 +938,39 @@ Etat : 0_3, action : right, old q-value : 0.959999, new q_value : 0.959999
 
 Iteration 6750 : 
 
-Etat : 1_5, action : up, old q-value : 0.439999, new q_value : 0.439999
+Etat : 1_6, action : up, old q-value : 0.179999, new q_value : 0.179999
 
 Iteration 6800 : 
 
-Etat : 0_5, action : left, old q-value : 0.959999, new q_value : 0.959999
+Etat : 2_1, action : right, old q-value : -0.078984, new q_value : -0.078984
 
 Iteration 6850 : 
 
-Etat : 2_4, action : down, old q-value : -0.071876, new q_value : -0.071876
+Etat : 1_6, action : up, old q-value : 0.179999, new q_value : 0.179999
 
 Iteration 6900 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 2_2, action : right, old q-value : -0.077968, new q_value : -0.077968
 
 Iteration 6950 : 
 
-Etat : 3_2, action : up, old q-value : -0.078985, new q_value : -0.078985
+Etat : 0_3, action : left, old q-value : -99.000001, new q_value : -99.000001
 
 Iteration 7000 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 0_0, action : down, old q-value : -0.079968, new q_value : -0.079968
 
 Iteration 7050 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 1_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 7100 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 2_1, action : right, old q-value : -0.078984, new q_value : -0.078984
 
 Iteration 7150 : 
 
-Etat : 3_4, action : right, old q-value : -0.063751, new q_value : -0.063751
+Etat : 3_2, action : up, old q-value : -0.078984, new q_value : -0.078984
 
 Iteration 7200 : 
 
@@ -994,15 +978,15 @@ Etat : 0_5, action : left, old q-value : 0.959999, new q_value : 0.959999
 
 Iteration 7250 : 
 
-Etat : 4_5, action : right, old q-value : -0.06375, new q_value : -0.06375
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 7300 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 3_5, action : right, old q-value : -0.047501, new q_value : -0.047501
 
 Iteration 7350 : 
 
-Etat : 2_2, action : right, old q-value : -0.077969, new q_value : -0.077969
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 7400 : 
 
@@ -1010,83 +994,83 @@ Etat : 3_4, action : right, old q-value : -0.063751, new q_value : -0.063751
 
 Iteration 7450 : 
 
-Etat : 1_6, action : up, old q-value : 0.179999, new q_value : 0.179999
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 7500 : 
 
-Etat : 3_2, action : up, old q-value : -0.078985, new q_value : -0.078985
+Etat : 0_4, action : left, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 7550 : 
 
-Etat : 0_2, action : right, old q-value : 1.999999, new q_value : 1.999999
+Etat : 2_0, action : down, old q-value : -0.079873, new q_value : -0.079873
 
 Iteration 7600 : 
 
-Etat : 0_2, action : down, old q-value : -0.500001, new q_value : -0.500001
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 7650 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 2_0, action : down, old q-value : -0.079873, new q_value : -0.079873
 
 Iteration 7700 : 
 
-Etat : 1_6, action : right, old q-value : 0.049999, new q_value : 0.049999
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 7750 : 
 
-Etat : 4_4, action : right, old q-value : -0.071875, new q_value : -0.071875
+Etat : 0_4, action : left, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 7800 : 
 
-Etat : 0_2, action : right, old q-value : 1.999999, new q_value : 1.999999
+Etat : 0_4, action : left, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 7850 : 
 
-Etat : 4_0, action : up, old q-value : -0.079873, new q_value : -0.079873
+Etat : 0_5, action : left, old q-value : 0.959999, new q_value : 0.959999
 
 Iteration 7900 : 
 
-Etat : 2_3, action : right, old q-value : -0.075938, new q_value : -0.075938
+Etat : 0_4, action : up, old q-value : 0.959999, new q_value : 0.959999
 
 Iteration 7950 : 
 
-Etat : 1_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 8000 : 
 
-Etat : 0_6, action : left, old q-value : 0.439999, new q_value : 0.439999
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 8050 : 
 
-Etat : 0_4, action : left, old q-value : 1.999999, new q_value : 1.999999
+Etat : 0_3, action : left, old q-value : -99.000001, new q_value : -99.000001
 
 Iteration 8100 : 
 
-Etat : 0_6, action : left, old q-value : 0.439999, new q_value : 0.439999
+Etat : 0_3, action : right, old q-value : 0.959999, new q_value : 0.959999
 
 Iteration 8150 : 
 
-Etat : 1_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 8200 : 
 
-Etat : 1_0, action : left, old q-value : -0.079968, new q_value : -0.079968
+Etat : 0_4, action : left, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 8250 : 
 
-Etat : 3_6, action : up, old q-value : -0.015001, new q_value : -0.015001
+Etat : 0_1, action : down, old q-value : -0.079992, new q_value : -0.079992
 
 Iteration 8300 : 
 
-Etat : 3_3, action : right, old q-value : -0.071876, new q_value : -0.071876
+Etat : 3_6, action : up, old q-value : -0.015001, new q_value : -0.015001
 
 Iteration 8350 : 
 
-Etat : 1_4, action : up, old q-value : 0.959999, new q_value : 0.959999
+Etat : 0_2, action : down, old q-value : -99.0, new q_value : -99.0
 
 Iteration 8400 : 
 
-Etat : 3_2, action : up, old q-value : -0.078985, new q_value : -0.078985
+Etat : 0_3, action : left, old q-value : -99.000001, new q_value : -99.000001
 
 Iteration 8450 : 
 
@@ -1094,31 +1078,31 @@ Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 8500 : 
 
-Etat : 2_3, action : down, old q-value : -1.535938, new q_value : -1.535938
+Etat : 0_4, action : left, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 8550 : 
 
-Etat : 0_2, action : down, old q-value : -0.500001, new q_value : -0.500001
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 8600 : 
 
-Etat : 2_4, action : right, old q-value : -1.410001, new q_value : -1.410001
+Etat : 0_3, action : left, old q-value : -99.000001, new q_value : -99.000001
 
 Iteration 8650 : 
 
-Etat : 0_3, action : down, old q-value : -0.500001, new q_value : -0.500001
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 8700 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 0_3, action : left, old q-value : -99.000001, new q_value : -99.000001
 
 Iteration 8750 : 
 
-Etat : 0_3, action : left, old q-value : -0.500001, new q_value : -0.500001
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 8800 : 
 
-Etat : 4_0, action : up, old q-value : -0.079873, new q_value : -0.079873
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 8850 : 
 
@@ -1126,79 +1110,79 @@ Etat : 1_0, action : down, old q-value : -0.079936, new q_value : -0.079936
 
 Iteration 8900 : 
 
-Etat : 0_4, action : down, old q-value : -1.020001, new q_value : -1.020001
+Etat : 2_3, action : right, old q-value : -0.075937, new q_value : -0.075937
 
 Iteration 8950 : 
 
-Etat : 2_3, action : right, old q-value : -0.075938, new q_value : -0.075938
+Etat : 2_4, action : down, old q-value : -0.071875, new q_value : -0.071875
 
 Iteration 9000 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 0_2, action : up, old q-value : -99.0, new q_value : -99.0
 
 Iteration 9050 : 
 
-Etat : 3_6, action : up, old q-value : -0.015001, new q_value : -0.015001
+Etat : 3_5, action : right, old q-value : -0.047501, new q_value : -0.047501
 
 Iteration 9100 : 
 
-Etat : 2_0, action : down, old q-value : -0.079873, new q_value : -0.079873
+Etat : 0_2, action : up, old q-value : -99.0, new q_value : -99.0
 
 Iteration 9150 : 
 
-Etat : 0_3, action : right, old q-value : 0.959999, new q_value : 0.959999
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 9200 : 
 
-Etat : 3_1, action : up, old q-value : -1.539492, new q_value : -1.539492
+Etat : 4_4, action : up, old q-value : -0.071875, new q_value : -0.071875
 
 Iteration 9250 : 
 
-Etat : 1_5, action : right, old q-value : 0.049999, new q_value : 0.049999
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 9300 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 0_2, action : right, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 9350 : 
 
-Etat : 0_4, action : left, old q-value : 1.999999, new q_value : 1.999999
+Etat : 3_2, action : up, old q-value : -0.078984, new q_value : -0.078984
 
 Iteration 9400 : 
 
-Etat : 0_2, action : up, old q-value : -0.500001, new q_value : -0.500001
+Etat : 1_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 9450 : 
 
-Etat : 0_2, action : right, old q-value : 1.999999, new q_value : 1.999999
+Etat : 3_4, action : up, old q-value : -0.075937, new q_value : -0.075937
 
 Iteration 9500 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 3_5, action : right, old q-value : -0.047501, new q_value : -0.047501
 
 Iteration 9550 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 2_2, action : right, old q-value : -0.077968, new q_value : -0.077968
 
 Iteration 9600 : 
 
-Etat : 3_5, action : right, old q-value : -0.047501, new q_value : -0.047501
+Etat : 0_6, action : down, old q-value : 0.049999, new q_value : 0.049999
 
 Iteration 9650 : 
 
-Etat : 3_4, action : right, old q-value : -0.063751, new q_value : -0.063751
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 9700 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 3_5, action : up, old q-value : -99.91, new q_value : -99.91
 
 Iteration 9750 : 
 
-Etat : 3_1, action : right, old q-value : -0.079493, new q_value : -0.079493
+Etat : 2_2, action : right, old q-value : -0.077968, new q_value : -0.077968
 
 Iteration 9800 : 
 
-Etat : 0_6, action : up, old q-value : 0.179999, new q_value : 0.179999
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 9850 : 
 
@@ -1206,23 +1190,23 @@ Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 9900 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 0_4, action : up, old q-value : 0.959999, new q_value : 0.959999
 
 Iteration 9950 : 
 
-Etat : 3_0, action : down, old q-value : -0.079936, new q_value : -0.079936
+Etat : 0_2, action : right, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 10000 : 
 
-Etat : 4_5, action : right, old q-value : -0.06375, new q_value : -0.06375
+Etat : 3_4, action : down, old q-value : -0.075937, new q_value : -0.075937
 
 Iteration 10050 : 
 
-Etat : 2_5, action : up, old q-value : 0.179999, new q_value : 0.179999
+Etat : 4_5, action : up, old q-value : -0.063751, new q_value : -0.063751
 
 Iteration 10100 : 
 
-Etat : 0_5, action : left, old q-value : 0.959999, new q_value : 0.959999
+Etat : 0_5, action : down, old q-value : 0.179999, new q_value : 0.179999
 
 Iteration 10150 : 
 
@@ -1230,51 +1214,51 @@ Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 10200 : 
 
-Etat : 0_5, action : down, old q-value : 0.179999, new q_value : 0.179999
+Etat : 0_4, action : down, old q-value : -99.52, new q_value : -99.52
 
 Iteration 10250 : 
 
-Etat : 3_3, action : right, old q-value : -0.071876, new q_value : -0.071876
+Etat : 0_4, action : left, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 10300 : 
 
-Etat : 0_4, action : left, old q-value : 1.999999, new q_value : 1.999999
+Etat : 0_2, action : right, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 10350 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 0_4, action : left, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 10400 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 3_1, action : down, old q-value : -0.079873, new q_value : -0.079873
 
 Iteration 10450 : 
 
-Etat : 2_6, action : left, old q-value : -1.410001, new q_value : -1.410001
+Etat : 3_6, action : right, old q-value : -0.047501, new q_value : -0.047501
 
 Iteration 10500 : 
 
-Etat : 2_1, action : right, old q-value : -0.078984, new q_value : -0.078984
+Etat : 3_4, action : down, old q-value : -0.075937, new q_value : -0.075937
 
 Iteration 10550 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 0_2, action : down, old q-value : -99.0, new q_value : -99.0
 
 Iteration 10600 : 
 
-Etat : 3_6, action : up, old q-value : -0.015001, new q_value : -0.015001
+Etat : 1_5, action : up, old q-value : 0.439999, new q_value : 0.439999
 
 Iteration 10650 : 
 
-Etat : 2_2, action : up, old q-value : -0.078984, new q_value : -0.078984
+Etat : 3_4, action : right, old q-value : -0.063751, new q_value : -0.063751
 
 Iteration 10700 : 
 
-Etat : 2_3, action : right, old q-value : -0.075938, new q_value : -0.075938
+Etat : 2_2, action : right, old q-value : -0.077968, new q_value : -0.077968
 
 Iteration 10750 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 0_5, action : left, old q-value : 0.959999, new q_value : 0.959999
 
 Iteration 10800 : 
 
@@ -1282,67 +1266,67 @@ Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 10850 : 
 
-Etat : 4_6, action : up, old q-value : -0.047501, new q_value : -0.047501
+Etat : 0_5, action : left, old q-value : 0.959999, new q_value : 0.959999
 
 Iteration 10900 : 
 
-Etat : 0_5, action : up, old q-value : 0.439999, new q_value : 0.439999
+Etat : 2_2, action : right, old q-value : -0.077968, new q_value : -0.077968
 
 Iteration 10950 : 
 
-Etat : 3_4, action : right, old q-value : -0.063751, new q_value : -0.063751
+Etat : 2_2, action : right, old q-value : -0.077968, new q_value : -0.077968
 
 Iteration 11000 : 
 
-Etat : 0_3, action : down, old q-value : -0.500001, new q_value : -0.500001
+Etat : 0_3, action : left, old q-value : -99.000001, new q_value : -99.000001
 
 Iteration 11050 : 
 
-Etat : 0_5, action : left, old q-value : 0.959999, new q_value : 0.959999
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 11100 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 0_2, action : right, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 11150 : 
 
-Etat : 0_5, action : left, old q-value : 0.959999, new q_value : 0.959999
+Etat : 3_2, action : up, old q-value : -0.078984, new q_value : -0.078984
 
 Iteration 11200 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 3_5, action : right, old q-value : -0.047501, new q_value : -0.047501
 
 Iteration 11250 : 
 
-Etat : 2_3, action : up, old q-value : -0.500001, new q_value : -0.500001
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 11300 : 
 
-Etat : 0_2, action : right, old q-value : 1.999999, new q_value : 1.999999
+Etat : 0_6, action : right, old q-value : 0.179999, new q_value : 0.179999
 
 Iteration 11350 : 
 
-Etat : 0_3, action : down, old q-value : -0.500001, new q_value : -0.500001
+Etat : 3_6, action : right, old q-value : -0.047501, new q_value : -0.047501
 
 Iteration 11400 : 
 
-Etat : 0_4, action : left, old q-value : 1.999999, new q_value : 1.999999
+Etat : 0_2, action : right, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 11450 : 
 
-Etat : 1_5, action : up, old q-value : 0.439999, new q_value : 0.439999
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 11500 : 
 
-Etat : 0_3, action : right, old q-value : 0.959999, new q_value : 0.959999
+Etat : 0_4, action : left, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 11550 : 
 
-Etat : 0_1, action : left, old q-value : -0.079984, new q_value : -0.079984
+Etat : 1_6, action : up, old q-value : 0.179999, new q_value : 0.179999
 
 Iteration 11600 : 
 
-Etat : 1_6, action : left, old q-value : 0.179999, new q_value : 0.179999
+Etat : 0_4, action : right, old q-value : 0.439999, new q_value : 0.439999
 
 Iteration 11650 : 
 
@@ -1350,95 +1334,95 @@ Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 11700 : 
 
-Etat : 1_6, action : right, old q-value : 0.049999, new q_value : 0.049999
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 11750 : 
 
-Etat : 0_3, action : left, old q-value : -0.500001, new q_value : -0.500001
+Etat : 0_3, action : right, old q-value : 0.959999, new q_value : 0.959999
 
 Iteration 11800 : 
 
-Etat : 4_6, action : left, old q-value : -0.071875, new q_value : -0.071875
+Etat : 3_3, action : right, old q-value : -0.071875, new q_value : -0.071875
 
 Iteration 11850 : 
 
-Etat : 3_6, action : right, old q-value : -0.047501, new q_value : -0.047501
+Etat : 0_4, action : up, old q-value : 0.959999, new q_value : 0.959999
 
 Iteration 11900 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 2_6, action : up, old q-value : 0.049999, new q_value : 0.049999
 
 Iteration 11950 : 
 
-Etat : 0_2, action : right, old q-value : 1.999999, new q_value : 1.999999
+Etat : 1_6, action : left, old q-value : 0.179999, new q_value : 0.179999
 
 Iteration 12000 : 
 
-Etat : 0_4, action : down, old q-value : -1.020001, new q_value : -1.020001
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 12050 : 
 
-Etat : 3_0, action : right, old q-value : -0.079746, new q_value : -0.079746
+Etat : 1_5, action : up, old q-value : 0.439999, new q_value : 0.439999
 
 Iteration 12100 : 
 
-Etat : 0_5, action : left, old q-value : 0.959999, new q_value : 0.959999
+Etat : 0_4, action : left, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 12150 : 
 
-Etat : 0_4, action : up, old q-value : 0.959999, new q_value : 0.959999
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 12200 : 
 
-Etat : 0_3, action : left, old q-value : -0.500001, new q_value : -0.500001
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 12250 : 
 
-Etat : 0_3, action : right, old q-value : 0.959999, new q_value : 0.959999
+Etat : 0_2, action : up, old q-value : -99.0, new q_value : -99.0
 
 Iteration 12300 : 
 
-Etat : 3_4, action : right, old q-value : -0.063751, new q_value : -0.063751
+Etat : 0_4, action : left, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 12350 : 
 
-Etat : 3_6, action : up, old q-value : -0.015001, new q_value : -0.015001
+Etat : 0_3, action : left, old q-value : -99.000001, new q_value : -99.000001
 
 Iteration 12400 : 
 
-Etat : 2_3, action : down, old q-value : -1.535938, new q_value : -1.535938
+Etat : 0_3, action : right, old q-value : 0.959999, new q_value : 0.959999
 
 Iteration 12450 : 
 
-Etat : 0_6, action : left, old q-value : 0.439999, new q_value : 0.439999
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 12500 : 
 
-Etat : 3_6, action : left, old q-value : -0.06375, new q_value : -0.06375
+Etat : 2_4, action : down, old q-value : -0.071875, new q_value : -0.071875
 
 Iteration 12550 : 
 
-Etat : 3_6, action : up, old q-value : -0.015001, new q_value : -0.015001
+Etat : 0_4, action : left, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 12600 : 
 
-Etat : 2_6, action : up, old q-value : 0.049999, new q_value : 0.049999
+Etat : 0_6, action : left, old q-value : 0.439999, new q_value : 0.439999
 
 Iteration 12650 : 
 
-Etat : 1_6, action : up, old q-value : 0.179999, new q_value : 0.179999
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 12700 : 
 
-Etat : 3_5, action : right, old q-value : -0.047501, new q_value : -0.047501
+Etat : 3_6, action : up, old q-value : -0.015001, new q_value : -0.015001
 
 Iteration 12750 : 
 
-Etat : 3_2, action : up, old q-value : -0.078985, new q_value : -0.078985
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 12800 : 
 
-Etat : 3_5, action : left, old q-value : -0.071875, new q_value : -0.071875
+Etat : 0_4, action : up, old q-value : 0.959999, new q_value : 0.959999
 
 Iteration 12850 : 
 
@@ -1446,15 +1430,15 @@ Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 12900 : 
 
-Etat : 3_6, action : left, old q-value : -0.06375, new q_value : -0.06375
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 12950 : 
 
-Etat : 0_1, action : left, old q-value : -0.079984, new q_value : -0.079984
+Etat : 3_6, action : up, old q-value : -0.015001, new q_value : -0.015001
 
 Iteration 13000 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 0_5, action : left, old q-value : 0.959999, new q_value : 0.959999
 
 Iteration 13050 : 
 
@@ -1462,159 +1446,159 @@ Etat : 3_6, action : up, old q-value : -0.015001, new q_value : -0.015001
 
 Iteration 13100 : 
 
-Etat : 4_6, action : up, old q-value : -0.047501, new q_value : -0.047501
+Etat : 0_3, action : right, old q-value : 0.959999, new q_value : 0.959999
 
 Iteration 13150 : 
 
-Etat : 2_2, action : right, old q-value : -0.077969, new q_value : -0.077969
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 13200 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 0_0, action : up, old q-value : -0.079983, new q_value : -0.079984
 
 Iteration 13250 : 
 
-Etat : 3_2, action : left, old q-value : -0.079746, new q_value : -0.079746
+Etat : 0_6, action : left, old q-value : 0.439999, new q_value : 0.439999
 
 Iteration 13300 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 0_4, action : left, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 13350 : 
 
-Etat : 2_6, action : up, old q-value : 0.049999, new q_value : 0.049999
+Etat : 0_4, action : left, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 13400 : 
 
-Etat : 3_5, action : right, old q-value : -0.047501, new q_value : -0.047501
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 13450 : 
 
-Etat : 0_3, action : right, old q-value : 0.959999, new q_value : 0.959999
+Etat : 2_2, action : up, old q-value : -0.078984, new q_value : -0.078984
 
 Iteration 13500 : 
 
-Etat : 2_3, action : right, old q-value : -0.075938, new q_value : -0.075938
+Etat : 0_2, action : down, old q-value : -99.0, new q_value : -99.0
 
 Iteration 13550 : 
 
-Etat : 0_3, action : right, old q-value : 0.959999, new q_value : 0.959999
+Etat : 0_3, action : down, old q-value : -99.0, new q_value : -99.0
 
 Iteration 13600 : 
 
-Etat : 3_4, action : right, old q-value : -0.063751, new q_value : -0.063751
+Etat : 0_3, action : left, old q-value : -99.000001, new q_value : -99.000001
 
 Iteration 13650 : 
 
-Etat : 0_3, action : left, old q-value : -0.500001, new q_value : -0.500001
+Etat : 0_2, action : right, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 13700 : 
 
-Etat : 4_3, action : right, old q-value : -0.075937, new q_value : -0.075937
+Etat : 0_5, action : left, old q-value : 0.959999, new q_value : 0.959999
 
 Iteration 13750 : 
 
-Etat : 1_4, action : right, old q-value : 0.179999, new q_value : 0.179999
+Etat : 3_2, action : up, old q-value : -0.078984, new q_value : -0.078984
 
 Iteration 13800 : 
 
-Etat : 0_4, action : left, old q-value : 1.999999, new q_value : 1.999999
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 13850 : 
 
-Etat : 0_6, action : left, old q-value : 0.439999, new q_value : 0.439999
+Etat : 0_4, action : up, old q-value : 0.959999, new q_value : 0.959999
 
 Iteration 13900 : 
 
-Etat : 1_4, action : up, old q-value : 0.959999, new q_value : 0.959999
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 13950 : 
 
-Etat : 0_5, action : right, old q-value : 0.179999, new q_value : 0.179999
+Etat : 1_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 14000 : 
 
-Etat : 0_2, action : right, old q-value : 1.999999, new q_value : 1.999999
+Etat : 2_4, action : right, old q-value : -99.91, new q_value : -99.91
 
 Iteration 14050 : 
 
-Etat : 3_0, action : right, old q-value : -0.079746, new q_value : -0.079746
+Etat : 3_4, action : up, old q-value : -0.075937, new q_value : -0.075937
 
 Iteration 14100 : 
 
-Etat : 2_5, action : right, old q-value : -0.015001, new q_value : -0.015001
+Etat : 1_5, action : up, old q-value : 0.439999, new q_value : 0.439999
 
 Iteration 14150 : 
 
-Etat : 3_5, action : right, old q-value : -0.047501, new q_value : -0.047501
+Etat : 1_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 14200 : 
 
-Etat : 0_2, action : right, old q-value : 1.999999, new q_value : 1.999999
+Etat : 0_4, action : up, old q-value : 0.959999, new q_value : 0.959999
 
 Iteration 14250 : 
 
-Etat : 0_2, action : right, old q-value : 1.999999, new q_value : 1.999999
+Etat : 0_3, action : right, old q-value : 0.959999, new q_value : 0.959999
 
 Iteration 14300 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 3_4, action : right, old q-value : -0.063751, new q_value : -0.063751
 
 Iteration 14350 : 
 
-Etat : 0_2, action : left, old q-value : -0.079992, new q_value : -0.079992
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 14400 : 
 
-Etat : 1_0, action : down, old q-value : -0.079936, new q_value : -0.079936
+Etat : 0_2, action : left, old q-value : -0.079992, new q_value : -0.079992
 
 Iteration 14450 : 
 
-Etat : 0_4, action : left, old q-value : 1.999999, new q_value : 1.999999
+Etat : 0_5, action : left, old q-value : 0.959999, new q_value : 0.959999
 
 Iteration 14500 : 
 
-Etat : 0_3, action : right, old q-value : 0.959999, new q_value : 0.959999
+Etat : 1_4, action : up, old q-value : 0.959999, new q_value : 0.959999
 
 Iteration 14550 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 1_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 14600 : 
 
-Etat : 3_0, action : left, old q-value : -0.079873, new q_value : -0.079873
+Etat : 0_2, action : right, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 14650 : 
 
-Etat : 0_5, action : left, old q-value : 0.959999, new q_value : 0.959999
+Etat : 0_2, action : up, old q-value : -99.0, new q_value : -99.0
 
 Iteration 14700 : 
 
-Etat : 0_4, action : left, old q-value : 1.999999, new q_value : 1.999999
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 14750 : 
 
-Etat : 1_6, action : up, old q-value : 0.179999, new q_value : 0.179999
+Etat : 2_6, action : up, old q-value : 0.049999, new q_value : 0.049999
 
 Iteration 14800 : 
 
-Etat : 0_3, action : right, old q-value : 0.959999, new q_value : 0.959999
+Etat : 0_3, action : left, old q-value : -99.000001, new q_value : -99.000001
 
 Iteration 14850 : 
 
-Etat : 0_4, action : left, old q-value : 1.999999, new q_value : 1.999999
+Etat : 2_0, action : down, old q-value : -0.079873, new q_value : -0.079873
 
 Iteration 14900 : 
 
-Etat : 0_5, action : left, old q-value : 0.959999, new q_value : 0.959999
+Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
 
 Iteration 14950 : 
 
-Etat : 0_3, action : up, old q-value : 1.999999, new q_value : 1.999999
+Etat : 2_2, action : right, old q-value : -0.077968, new q_value : -0.077968
 
 Iteration 15000 : 
 
-Etat : 2_2, action : right, old q-value : -0.077969, new q_value : -0.077969
+Etat : 2_3, action : right, old q-value : -0.075937, new q_value : -0.075937
 
 
 FINAL Q-VALUES PER STATE : 
@@ -1622,44 +1606,44 @@ FINAL Q-VALUES PER STATE :
 {
     "0_3": {
         "up": 1.999999,
-        "down": -0.500001,
-        "left": -0.500001,
+        "down": -99.0,
+        "left": -99.000001,
         "right": 0.959999
+    },
+    "0_2": {
+        "up": -99.0,
+        "down": -99.0,
+        "left": -0.079992,
+        "right": 1.999999
     },
     "0_4": {
         "up": 0.959999,
-        "down": -1.020001,
+        "down": -99.52,
         "left": 1.999999,
         "right": 0.439999
-    },
-    "1_4": {
-        "up": 0.959999,
-        "down": -0.075938,
-        "left": -0.500001,
-        "right": 0.179999
-    },
-    "2_4": {
-        "up": -1.020001,
-        "down": -0.071876,
-        "left": -0.077969,
-        "right": -1.410001
-    },
-    "1_3": {
-        "up": 1.999999,
-        "down": -0.077969,
-        "left": -0.500001,
-        "right": -1.020001
-    },
-    "0_2": {
-        "up": -0.500001,
-        "down": -0.500001,
-        "left": -0.079992,
-        "right": 1.999999
     },
     "0_5": {
         "up": 0.439999,
         "down": 0.179999,
         "left": 0.959999,
+        "right": 0.179999
+    },
+    "1_5": {
+        "up": 0.439999,
+        "down": -99.91,
+        "left": -99.52,
+        "right": 0.049999
+    },
+    "1_3": {
+        "up": 1.999999,
+        "down": -0.077968,
+        "left": -99.0,
+        "right": -99.52
+    },
+    "1_4": {
+        "up": 0.959999,
+        "down": -0.075937,
+        "left": -99.0,
         "right": 0.179999
     },
     "0_6": {
@@ -1668,101 +1652,125 @@ FINAL Q-VALUES PER STATE :
         "left": 0.439999,
         "right": 0.179999
     },
-    "2_3": {
-        "up": -0.500001,
-        "down": -1.535938,
-        "left": -0.078984,
-        "right": -0.075938
-    },
-    "3_4": {
-        "up": -0.075938,
-        "down": -0.075937,
-        "left": -1.535938,
-        "right": -0.063751
-    },
-    "3_3": {
-        "up": -0.077969,
-        "down": -0.077968,
-        "left": -0.079492,
-        "right": -0.071876
-    },
-    "4_3": {
-        "up": -1.535938,
-        "down": -0.077968,
-        "left": -0.076925,
-        "right": -0.075937
-    },
-    "3_2": {
-        "up": -0.078985,
-        "down": -0.079492,
-        "left": -0.079746,
-        "right": -1.535938
-    },
-    "2_2": {
-        "up": -0.078984,
-        "down": -0.079492,
-        "left": -1.539492,
-        "right": -0.077969
-    },
-    "2_5": {
-        "up": 0.179999,
-        "down": -0.063751,
-        "left": -0.075938,
-        "right": -0.015001
-    },
-    "2_6": {
-        "up": 0.049999,
-        "down": -0.047501,
-        "left": -1.410001,
-        "right": -0.015001
-    },
     "1_6": {
         "up": 0.179999,
         "down": -0.015001,
         "left": 0.179999,
         "right": 0.049999
     },
-    "1_5": {
-        "up": 0.439999,
-        "down": -1.41,
-        "left": -1.020001,
-        "right": 0.049999
+    "2_5": {
+        "up": 0.179999,
+        "down": -0.06375,
+        "left": -0.075937,
+        "right": -0.015001
+    },
+    "2_6": {
+        "up": 0.049999,
+        "down": -0.047501,
+        "left": -99.91,
+        "right": -0.015001
+    },
+    "3_6": {
+        "up": -0.015001,
+        "down": -0.063751,
+        "left": -0.063751,
+        "right": -0.047501
+    },
+    "2_4": {
+        "up": -99.52,
+        "down": -0.071875,
+        "left": -0.077968,
+        "right": -99.91
+    },
+    "4_6": {
+        "up": -0.047501,
+        "down": -0.069581,
+        "left": -0.071875,
+        "right": -0.063751
+    },
+    "0_1": {
+        "up": -0.079992,
+        "down": -0.079992,
+        "left": -0.079984,
+        "right": -99.0
     },
     "3_5": {
-        "up": -1.410001,
+        "up": -99.91,
         "down": -0.071875,
         "left": -0.071875,
         "right": -0.047501
-    },
-    "4_4": {
-        "up": -0.071876,
-        "down": -0.075937,
-        "left": -0.077968,
-        "right": -0.071875
     },
     "4_5": {
         "up": -0.063751,
         "down": -0.071875,
         "left": -0.075937,
-        "right": -0.06375
+        "right": -0.063751
     },
-    "3_6": {
-        "up": -0.015001,
-        "down": -0.06375,
-        "left": -0.06375,
-        "right": -0.047501
+    "4_4": {
+        "up": -0.071875,
+        "down": -0.075937,
+        "left": -0.077968,
+        "right": -0.071875
+    },
+    "3_4": {
+        "up": -0.075937,
+        "down": -0.075937,
+        "left": -100.035937,
+        "right": -0.063751
+    },
+    "2_3": {
+        "up": -99.0,
+        "down": -100.035937,
+        "left": -0.078984,
+        "right": -0.075937
+    },
+    "4_3": {
+        "up": -100.035937,
+        "down": -0.077968,
+        "left": -0.077968,
+        "right": -0.075937
+    },
+    "3_3": {
+        "up": -0.077968,
+        "down": -0.077968,
+        "left": -0.079492,
+        "right": -0.071875
+    },
+    "2_2": {
+        "up": -0.078984,
+        "down": -0.079492,
+        "left": -100.039492,
+        "right": -0.077968
+    },
+    "3_2": {
+        "up": -0.078984,
+        "down": -0.079492,
+        "left": -0.079746,
+        "right": -100.035937
+    },
+    "3_1": {
+        "up": -100.039492,
+        "down": -0.079873,
+        "left": -0.079873,
+        "right": -0.079492
     },
     "2_1": {
-        "up": -1.539492,
+        "up": -100.039492,
         "down": -0.079746,
         "left": -0.079936,
         "right": -0.078984
+    },
+    "4_1": {
+        "up": -0.079746,
+        "down": -0.079872,
+        "left": -0.079936,
+        "right": -0.079873
     },
     "2_0": {
         "up": -0.079968,
         "down": -0.079873,
         "left": -0.079936,
-        "right": -1.539492
+        "right": -100.039492
     },
     "1_0": {
         "up": -0.079984,
@@ -1776,39 +1784,15 @@ FINAL Q-VALUES PER STATE :
         "left": -0.079984,
         "right": -0.079992
     },
-    "0_1": {
-        "up": -0.079992,
-        "down": -0.079992,
-        "left": -0.079984,
-        "right": -0.5
-    },
     "3_0": {
         "up": -0.079936,
         "down": -0.079936,
         "left": -0.079873,
         "right": -0.079746
     },
-    "3_1": {
-        "up": -1.539492,
-        "down": -0.079873,
-        "left": -0.079873,
-        "right": -0.079493
-    },
-    "4_6": {
-        "up": -0.047501,
-        "down": -0.063751,
-        "left": -0.071875,
-        "right": -0.063751
-    },
     "4_0": {
         "up": -0.079873,
-        "down": -0.079936,
-        "left": -0.079936,
-        "right": -0.079873
-    },
-    "4_1": {
-        "up": -0.079746,
-        "down": -0.079873,
+        "down": -0.079905,
         "left": -0.079936,
         "right": -0.079873
     }
@@ -1816,8 +1800,8 @@ FINAL Q-VALUES PER STATE :
 
 FINAL ACTIONS TABLE :
 
-  down   left  right     up   left   left   left
-  down                   up     up     up     up
-  down  right  right  right   down     up     up
- right  right     up  right  right  right     up
-    up     up         right  right  right     up
+     v      <      >      ^      <      <      <
+     v                    ^      ^      ^      ^
+     v      >      >      >      v      ^          >      ^^
+     >      >      ^      >      >  
+     ^      ^             >      ^      ^      ^

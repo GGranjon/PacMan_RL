@@ -78,11 +78,12 @@ class QLearning:
 
         n,m = self.env.board.shape
         matrice_actions = np.full((n, m), '', dtype=object)
+        to_symbol = {"up":"^", "down":"v", "left":"<", "right":">"}
 
         for etat, actions in q_values.items():
             x, y = map(int, etat.split('_'))
             meilleure_action = max(actions, key=actions.get)
-            matrice_actions[x, y] = meilleure_action
+            matrice_actions[x, y] = to_symbol[meilleure_action]
 
         file = open(save_file, "a")
         file.write("\n\nFINAL ACTIONS TABLE :\n\n")
